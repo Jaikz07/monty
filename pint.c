@@ -4,7 +4,7 @@
  * @head: stack head
  * @counter: line_number
  * Return: returns nothing
-*/
+ */
 void f_pint(stack_t **head, unsigned int counter)
 {
 	if (*head == NULL)
